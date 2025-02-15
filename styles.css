@@ -1,6 +1,6 @@
 body {
     background-color: linen;
-    background-image: url("https://damhung8002.github.io/hungblog/images/background.jpg");
+    background-image: url("/background.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
